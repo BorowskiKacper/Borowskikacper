@@ -1,4 +1,6 @@
+<!--
 ## Hi there 👋
+-->
 
 <!--
 **BorowskiKacper/Borowskikacper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, My Name is Kacper 👋
+
+<hr>
+
+# 📮 About Me
+
+My name is Kacper and I am a Computer Science student!
+
+```python
+class Kacper:
+  def __init__(self):
+    self.age = 20
+    self.hobbies = ["Coding", "Running", "Reading"]
+    self.school = "CUNY City College"
+    self.email = "borowski.cacper@gmail.com"
+```
+
+# 📍 What Am I Doing?
+- 📋 Currently I am:
+  - Software Engineer @ NBC Universal
+
+- ⏮️ Previous Experience:
+  - Software Engineer Intern @ Morgan Stanley
+  - Machine Learning Research Intern @ CUNY Research Foundation
+
+# 👻 Tech Stack
+
+### Languages
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
