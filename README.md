@@ -34,7 +34,7 @@ class Kacper:
     self.email = "borowski.cacper@gmail.com"
 ```
 
-💻 I'm passionate about automation, low-latency systems, and ML. Currently a Software Engineer intern at NBCUniversal (Peacock) working on an intern website to streamline cross-team workflows, building a C++ feed handler and limit order book, President of Google Developer Group on Campus @ CCNY, and doing Cornell Tech's Break Through Tech AI Program. Former Morgan Stanley intern and CUNY Machine Learning researcher, and 3x hackathon winner. 
+💻 I'm passionate about automation, low-latency systems, and ML. Currently a Software Engineer intern at NBCUniversal (Peacock) working on an internal website to streamline cross-team workflows, building a C++ feed handler and limit order book, President of Google Developer Group on Campus @ CCNY, and doing Cornell Tech's Break Through Tech AI Program. Former Morgan Stanley intern and CUNY Machine Learning researcher, and 3x hackathon winner. 
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
