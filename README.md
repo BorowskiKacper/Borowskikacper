@@ -29,7 +29,7 @@ My name is Kacper and I am a Computer Science student!
 class Kacper:
   def __init__(self):
     self.age = 20
-    self.hobbies = ["Coding", "Running", "Reading"]
+    self.hobbies = ["Coding", "Running", "Watching YouTube"]
     self.school = "CUNY City College"
     self.email = "borowski.cacper@gmail.com"
 ```
