@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 📮 About Me
 
-My name is Kacper and I am a Computer Science student!
+My name is Kacper and I am a Computer Science student! I'm interested in distributed systems, C++ programming, web development, and machine learning.
 
 ```python
 class Kacper:
@@ -34,18 +34,18 @@ class Kacper:
     self.email = "borowski.cacper@gmail.com"
 ```
 
-💻 I'm passionate about automation, low-latency systems, and ML.
 
-I'm currently a Software Engineer Intern at NBCUniversal (Peacock), where I'm building an internal website to streamline cross-team workflows. Separately, I'm developing a C++ feed handler and limit order book. Alongside this, I serve as President of the Google Developer Group on Campus @ CCNY and am participating in Cornell Tech's Break Through Tech AI Program.
+💻 Currently I am:
+- Developing a Low-Latency C++ feed handler and limit order book
+- President of Google Developer Groups on Campus @ CCNY
+- Doing the Break Through Tech AI Program
+- Reading "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" (2nd Edition)
 
-Previously, I interned at Morgan Stanley and conducted machine learning research at CUNY. I'm also a 3x hackathon winner.
-# 📍 What Am I Doing?
-- 📋 Currently I am:
-  - Software Engineer @ NBC Universal
 
-- ⏮️ Previous Experience:
-  - Software Engineer Intern @ Morgan Stanley
-  - Machine Learning Research Intern @ CUNY Research Foundation
+⏮️ Previous Internships:
+- Software Engineer @ NBC Universal (Peacock): Created an internal website with React, TypeScript, and Next.js to view, edit, and deploy remote configs. Reduced reliance on other teams and increased end-to-end config editing & deployment process.
+- Machine Learning Research Intern @ CUNY Research Foundation: Published research report ([26-16 Using GenAI to Accel...](https://www.nyserda.ny.gov/About/Publications/Energy-Analysis-Reports-and-Studies/Other-Technical-Reports)) with NYSERDA on GenAI for NYC commercial real estate and engineering.
+- Software Engineer Intern @ Morgan Stanley: Refactored Terraform modules and created a Jenkins CI/CD pipeline.
 
 # 👻 Tech Stack
 
