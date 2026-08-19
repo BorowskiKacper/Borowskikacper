@@ -43,7 +43,7 @@ class Kacper:
 
 
 ⏮️ Previous Internships:
-- Software Engineer @ NBC Universal (Peacock): Created an internal website with React, TypeScript, and Next.js to view, edit, and deploy remote configs. Reduced reliance on other teams and increased speed of config editing & deployment process.
+- Software Engineer @ NBC Universal (Peacock):  Shipped an internal website for viewing, editing, and deploying remote configurations that are used by Peacock (and NBCU's other streaming platforms) to serve tens of millions of customers.
 - Machine Learning Research Intern @ CUNY Research Foundation: Published research report ([26-16 Using GenAI to Accel...](https://www.nyserda.ny.gov/About/Publications/Energy-Analysis-Reports-and-Studies/Other-Technical-Reports)) with NYSERDA on GenAI for NYC commercial real estate and engineering.
 - Software Engineer Intern @ Morgan Stanley: Refactored Terraform modules and created a Jenkins CI/CD pipeline.
 
